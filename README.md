@@ -39,7 +39,7 @@ Classificar o herói nos seguintes níveis com base no valor de XP informado pel
 
 ## 📦 Como Testar: 
 
-(Clique Aqui Para Testar!!!)[https://andrezgabriel.github.io/Hero-DIO/]
+[Clique Aqui Para Testar!!!](https://andrezgabriel.github.io/Hero-DIO/)
 
 
 
