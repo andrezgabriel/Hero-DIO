@@ -28,12 +28,12 @@ Classificar o herói nos seguintes níveis com base no valor de XP informado pel
 |---------------------|-------------|
 | Menor que 1.000     | Ferro       |
 | 1.001 a 2.000       | Bronze      |
-| 2.001 a 5.000       | Prata       |
-| 5.001 a 7.000       | Ouro        |
+| 2.001 a 4.000       | Prata       |
+| 5.001 a 6.000       | Ouro        |
 | 7.001 a 8.000       | Platina     |
-| 8.001 a 9.000       | Ascendente  |
-| 9.001 a 10.000      | Imortal     |
-| Maior que 10.000    | Radiante    |
+| 8.001 a 10.000       | Ascendente  |
+| 9.001 a 12.000      | Imortal     |
+| Maior que 12.000    | Radiante    |
 
 ---
 
